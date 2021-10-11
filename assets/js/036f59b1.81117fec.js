@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkthen_dev_blog=self.webpackChunkkthen_dev_blog||[]).push([[582],{4044:function(e){e.exports=JSON.parse('{"permalink":"/kznyzn-dev-blog/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

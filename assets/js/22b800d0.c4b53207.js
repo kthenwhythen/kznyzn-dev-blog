@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkthen_dev_blog=self.webpackChunkkthen_dev_blog||[]).push([[249],{6797:function(s){s.exports=JSON.parse('{"allTagsPath":"/kznyzn-dev-blog/blog/tags","slug":"/kznyzn-dev-blog/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/kznyzn-dev-blog/blog/tags/docusaurus"}')}}]);

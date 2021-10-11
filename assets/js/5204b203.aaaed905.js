@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkthen_dev_blog=self.webpackChunkkthen_dev_blog||[]).push([[669],{3082:function(l){l.exports=JSON.parse('{"allTagsPath":"/kznyzn-dev-blog/blog/tags","slug":"/kznyzn-dev-blog/blog/tags/hola","name":"hola","count":1,"permalink":"/kznyzn-dev-blog/blog/tags/hola"}')}}]);
